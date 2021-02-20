@@ -1,2 +1,7 @@
 # sys-gen
-Bash Script that generates system information
+A simple Bash Script that generates system information
+
+### Clone the repo
+```bash
+git clone 
+```
