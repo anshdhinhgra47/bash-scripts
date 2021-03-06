@@ -3,7 +3,7 @@ A simple Bash Script that generates system information
 
 ### Clone the repo
 ```bash
-git clone https://github.com/anshdhinhgra47/sys-gen.git
+git clone https://github.com/anshdhinhgra47/bash-scripts.git
 ```
 ### Changing the permissions of the file
 ```bash
