@@ -8,9 +8,10 @@ git clone https://github.com/anshdhinhgra47/sys-gen.git
 
 ## Changing the permissions
 ```bash
-chmod +x 
+chmod +x random-gen-game.sh 
 ```
 
 ## Playing the game
 ```bash
+./random-gen-game.sh 
 ```
