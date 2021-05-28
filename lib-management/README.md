@@ -4,7 +4,7 @@ A simple library management system written in Bash
 ### Steps to download the repository:
 1. Clone the repo:
 ```bash
-git clone 
+git clone https://github.com/anshdhinhgra47/bash-scripts.git
 ```
 2. Change the folder directory
 ```bash
